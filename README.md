@@ -15,6 +15,6 @@
 
   
  <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmartinsf&show_icons=true&locale=en&layout=compact&theme=dark" alt="lucasmartinsf"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasmartinsf&show_icons=true&locale=en&theme=dark" alt="lucasmartinsf"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmartinsf&show_icons=true&locale=en&layout=compact&theme=dark" alt="lucasmartinsf"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmartinsf&show_icons=true&locale=en&theme=dark" alt="lucasmartinsf"/>
 </div>
