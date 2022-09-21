@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Martins</h1>
+<h1 align="center">Hi 👋🏻, I'm Lucas Martins</h1>
 <h3 align="center">A curious front-end dev from Brazil</h3>
 
 - 🌱 I’m currently learning **Back-end at @betrybe**
