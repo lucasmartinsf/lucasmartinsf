@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏻, I'm Lucas Martins</h1>
 <h3 align="center">A curious front-end dev from Brazil</h3>
 
-- 🌱 I’m currently learning **Back-end at @betrybe**
+- 🌱 I’m currently learning **Back-end by myself**
 
-- 📫 How to reach me **lucas_martinsf@outlook.com**
+- 📫 How to reach me **martinslucas.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
